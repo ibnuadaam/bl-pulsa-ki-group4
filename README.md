@@ -7,11 +7,12 @@ bl-pulsa
 5. Sri Susanto
 
 note :
-daftar anggota?lead?
-deskripsi singkat?
-Simple Flowchart
-Simple UML digram
-Simple Class Diagram
+- daftar anggota?lead?
+- deskripsi singkat?
+- Simple Flowchart
+- Activity Diagram
+- Simple UML digram
+- Simple Class Diagram
 
 version history :
 
