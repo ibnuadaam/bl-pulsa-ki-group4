@@ -22,3 +22,6 @@ version history :
 0.0.2
 - create documentation
 - add UML diagram
+
+0.0.3
+- create html page with responsive design
